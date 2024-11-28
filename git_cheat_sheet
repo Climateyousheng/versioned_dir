@@ -1,6 +1,6 @@
 Git Cheat Sheet
 
-(1) git init	:Tell git to start versio controlling the files in a directory
+(1) git init	:Tell git to start version controlling the files in a directory
 		(initialises git in a directory)	
 (2) git status	:Tell git to print the status of the files in the version
 		controlled directory.
